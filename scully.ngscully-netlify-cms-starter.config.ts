@@ -1,7 +1,7 @@
 import { ScullyConfig } from '@scullyio/scully';
 export const config: ScullyConfig = {
   projectRoot: './src',
-  projectName: 'ngscully-netlify-cms-starter',
+  projectName: 'angular-example',
   outDir: './dist/static',
   routes: {
     '/blog/:slug': {
