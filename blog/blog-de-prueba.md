@@ -1,6 +1,6 @@
 ---
 title: Blog de prueba
 description: Esta es una descpripción de prueba
-publish: false
+publish: true
 ---
 # _Cuerpo del post_
